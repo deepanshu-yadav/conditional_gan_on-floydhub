@@ -7,7 +7,7 @@ sudo pip3 install Pillow <br>
 scipy and numpy will automatically get installed <br>
 
 
-# major_8_sem
+# Contents
 open jupyter notebook "  [Experiment-4.ipynb](https://github.com/deepanshu-yadav/conditional_gan_on-floydhub/blob/master/experiment-4.ipynb)" to view training code  <br>
 open jupyter notebook "  [tester.ipynb](https://github.com/deepanshu-yadav/conditional_gan_on-floydhub/blob/master/tester.ipynb)"  to view testing code.
 # for floyd hub 
