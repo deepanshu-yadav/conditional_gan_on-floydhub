@@ -8,10 +8,8 @@ scipy and numpy will automatically get installed <br>
 
 
 # major_8_sem
-open jupyter notebook "  training code"  <br>
-run cells one after another <br>
-open jupyter notebook "  testing code"  <br>
-run cells one after another
+open jupyter notebook "  [Experiment-4.ipynb](https://github.com/deepanshu-yadav/conditional_gan_on-floydhub/blob/master/experiment-4.ipynb)" to view training code  <br>
+open jupyter notebook "  [tester.ipynb](https://github.com/deepanshu-yadav/conditional_gan_on-floydhub/blob/master/tester.ipynb)"  <br> to view testing code.
 # for floyd hub 
 run terminal in this directory <br>
 floyd login <br>
