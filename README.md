@@ -1,4 +1,4 @@
-# conditional_gan_on-floydhub <br>
+# Face Conversion using Conditional GAN<br>
 # installation
 
 sudo pip3 install tensorflow <br>
